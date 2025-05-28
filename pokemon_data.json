@@ -1,0 +1,3800 @@
+{
+  "rota 1": [
+    {
+      "pokemon": "feebas",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "feebas",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "milotic",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "patrat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "lillipup",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "herdier",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "herdier",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "stoutland",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "bouffalant",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "bouffalant",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "rufflet",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "rufflet",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vullaby",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vullaby",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "golduck",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "golduck",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "zangoose",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "zangoose",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "seviper",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "seviper",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "floatzel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "gliscor",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pawniard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "bisharp",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "braviary",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "mandibuzz",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "metapod",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "metapod",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "butterfree",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "kakuna",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "kakuna",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "beedrill",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "rapidash",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "rapidash",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pinsir",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "pinsir",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sunkern",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "sunkern",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "sunflora",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "dunsparce",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "dunsparce",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "heracross",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "heracross",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "combee",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "combee",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vespiquen",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "cherrim",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "cherrim",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "unfezant",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "golbat",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "golbat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "cloyster",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "krabby",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingler",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "tangela",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "tangela",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "staryu",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "staryu",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "starmie",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "crobat",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "corsola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "swellow",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "swellow",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "wingull",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "pelipper",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "lunatone",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "lunatone",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "solrock",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "solrock",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "absol",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "absol",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tangrowth",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "jigglypuff",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "jigglypuff",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "wigglytuff",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "shuckle",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "shuckle",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "altaria",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "altaria",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tropius",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tropius",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "beheeyem",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "beheeyem",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "mienfoo",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "mienshao",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "fearow",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "fearow",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "marowak",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "marowak",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "kangaskhan",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "kangaskhan",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pupitar",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "pupitar",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "tyranitar",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cinccino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "horsea",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seadra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "chinchou",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 1
+    },
+    {
+      "pokemon": "qwilfish",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingdra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "finneon",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "lumineon",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "dwebble",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "crustle",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "frillish",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "jellicent",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "alomomola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "larvesta",
+      "metodo": "gift-egg",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "rota 2": [
+    {
+      "pokemon": "patrat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "lillipup",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "purrloin",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    }
+  ],
+  "rota 3": [
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "patrat",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "patrat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "lillipup",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "lillipup",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "purrloin",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "purrloin",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pidove",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "pidove",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "blitzle",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "blitzle",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 4": [
+    {
+      "pokemon": "krabby",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingler",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "clamperl",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "huntail",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gorebyss",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "relicanth",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "sandile",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "darumaka",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "frillish",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "jellicent",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "alomomola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 5": [
+    {
+      "pokemon": "liepard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cinccino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 6": [
+    {
+      "pokemon": "poliwag",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "poliwhirl",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "poliwhirl",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "politoed",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "unfezant",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "swadloon",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "swadloon",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "leavanny",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "vanillite",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "vanillite",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "deerling",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "deerling",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 7": [
+    {
+      "pokemon": "watchog",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "unfezant",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "zebstrika",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "zebstrika",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "deerling",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "deerling",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "cubchoo",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cubchoo",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    }
+  ],
+  "rota 8": [
+    {
+      "pokemon": "barboach",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "barboach",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "whiscash",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "palpitoad",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "seismitoad",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "shelmet",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 9": [
+    {
+      "pokemon": "liepard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "garbodor",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "garbodor",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cinccino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gothorita",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "gothorita",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "gothitelle",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "duosion",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "duosion",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "reuniclus",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pawniard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pawniard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 10": [
+    {
+      "pokemon": "herdier",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "herdier",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "stoutland",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "foongus",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "bouffalant",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "bouffalant",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "rufflet",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "rufflet",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vullaby",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vullaby",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    }
+  ],
+  "rota 11": [
+    {
+      "pokemon": "golduck",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "golduck",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "zangoose",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "zangoose",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "seviper",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "seviper",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "floatzel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "gliscor",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "karrablast",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "amoonguss",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pawniard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "bisharp",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "rufflet",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "braviary",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vullaby",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "mandibuzz",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 12": [
+    {
+      "pokemon": "metapod",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "metapod",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "butterfree",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "kakuna",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "kakuna",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "beedrill",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "rapidash",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "rapidash",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pinsir",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "pinsir",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sunkern",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "sunkern",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "sunflora",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "dunsparce",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "dunsparce",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "heracross",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "heracross",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "combee",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "combee",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "vespiquen",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "cherrim",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "cherrim",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "unfezant",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 13": [
+    {
+      "pokemon": "golbat",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "golbat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "cloyster",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "krabby",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingler",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "tangela",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "tangela",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "staryu",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "staryu",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "starmie",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "crobat",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "corsola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "swellow",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "swellow",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "wingull",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "pelipper",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "lunatone",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "lunatone",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "solrock",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "solrock",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "absol",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "absol",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tangrowth",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 14": [
+    {
+      "pokemon": "jigglypuff",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "jigglypuff",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "wigglytuff",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "golduck",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "golduck",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "shuckle",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "shuckle",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "altaria",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "altaria",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tropius",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tropius",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "buizel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "floatzel",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "drifblim",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "beheeyem",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "beheeyem",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "mienfoo",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "mienshao",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 15": [
+    {
+      "pokemon": "fearow",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "fearow",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "marowak",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "marowak",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "kangaskhan",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "kangaskhan",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "gligar",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pupitar",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "pupitar",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "tyranitar",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gliscor",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 16": [
+    {
+      "pokemon": "liepard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "trubbish",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "minccino",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cinccino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "gothita",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "solosis",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "emolga",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "rota 17": [
+    {
+      "pokemon": "horsea",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seadra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "qwilfish",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingdra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "finneon",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "lumineon",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "frillish",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "jellicent",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "alomomola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "rota 18": [
+    {
+      "pokemon": "horsea",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seadra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "chinchou",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 1
+    },
+    {
+      "pokemon": "qwilfish",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingdra",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "finneon",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "lumineon",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "dwebble",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "crustle",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "frillish",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "jellicent",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "alomomola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "larvesta",
+      "metodo": "gift-egg",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "vila nuvema": [
+    {
+      "pokemon": "snivy",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "tepig",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "oshawott",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "cidade striaton": [
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "cidade castelia": [
+    {
+      "pokemon": "zorua",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "cidade driftveil": [
+    {
+      "pokemon": "krabby",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "kingler",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "chinchou",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "chinchou",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "lanturn",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "frillish",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "jellicent",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "alomomola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    }
+  ],
+  "cidade icirrus": [
+    {
+      "pokemon": "barboach",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "barboach",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "whiscash",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "palpitoad",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "seismitoad",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "shelmet",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "stunfisk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "cidade undella": [
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "shellder",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "cloyster",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "corsola",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 30
+    },
+    {
+      "pokemon": "remoraid",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "octillery",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "mantine",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "wingull",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "pelipper",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "wailmer",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "luvdisc",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "mantyke",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 30
+    }
+  ],
+  "bosque pinwheel": [
+    {
+      "pokemon": "pidove",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "pidove",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "timburr",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "timburr",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tympole",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "tympole",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "throh",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "sawk",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "goldeen",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "seaking",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 15
+    },
+    {
+      "pokemon": "pansage",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "pansear",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "panpour",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "tranquill",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "sewaddle",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "swadloon",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "venipede",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "whirlipede",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "cottonee",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "cottonee",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "whimsicott",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "petilil",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "petilil",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "lilligant",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-red-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod-spots",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf-spots",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "super-rod",
+      "horario": "any",
+      "chance": 40
+    },
+    {
+      "pokemon": "basculin-blue-striped",
+      "metodo": "surf",
+      "horario": "any",
+      "chance": 60
+    },
+    {
+      "pokemon": "virizion",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "dreamyard": [
+    {
+      "pokemon": "raticate",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "venomoth",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "ledian",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "ariados",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "kricketune",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "patrat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "watchog",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "purrloin",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "liepard",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "pansage",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "pansear",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "panpour",
+      "metodo": "gift",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "munna",
+      "metodo": "dark-grass",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "munna",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "musharna",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 4
+    },
+    {
+      "pokemon": "musharna",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    },
+    {
+      "pokemon": "audino",
+      "metodo": "grass-spots",
+      "horario": "any",
+      "chance": 20
+    }
+  ],
+  "torre celestial": [
+    {
+      "pokemon": "litwick",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "elgyem",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    }
+  ],
+  "caverna elétrica": [
+    {
+      "pokemon": "boldore",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "drilbur",
+      "metodo": "cave-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "joltik",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "ferroseed",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "klink",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "tynamo",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 1
+    }
+  ],
+  "caverna mistralton": [
+    {
+      "pokemon": "boldore",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "woobat",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "drilbur",
+      "metodo": "cave-spots",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "axew",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "cobalion",
+      "metodo": "only-one",
+      "horario": "any",
+      "chance": 100
+    }
+  ],
+  "deserto": [
+    {
+      "pokemon": "sandile",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "darumaka",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 20
+    },
+    {
+      "pokemon": "maractus",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "dwebble",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 5
+    },
+    {
+      "pokemon": "scraggy",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    },
+    {
+      "pokemon": "sigilyph",
+      "metodo": "walk",
+      "horario": "any",
+      "chance": 10
+    }
+  ]
+}
